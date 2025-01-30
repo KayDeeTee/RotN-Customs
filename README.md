@@ -15,7 +15,7 @@ Linux `~/.local/share/Steam/steamapps/compatdata/3029150/pfx/drive_c/users/steam
 
 ## Charter
 
-soon 
+https://github.com/KayDeeTee/RotN-Charter
 
 # Compiling
 add `Assembly-Csharp.dll`, `Unity.TextMeshPro.dll`, and `UnityEngine.UI.dll` from your games install to a folder called `lib/` in the root folder, then run `dotnet build` in your terminal from the root folder.
